@@ -4,10 +4,26 @@
 #include <iostream>
 #include <string>
 
+void TestCommit()
+{
+    std::cout << "우리팀 화이팅\n" << std::endl;
+}
+
+
+
 int main()
 {
+
     std::cout << "다들 안녕?! AKB팀원들아~\n";
+
+    std::cout << "Hello World!\n";
+    std::cout << "abcdef\n";
 }
+
+
+
+
+
 
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
