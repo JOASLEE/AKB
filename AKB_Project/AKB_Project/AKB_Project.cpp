@@ -13,6 +13,7 @@ void TestCommit()
 int main()
 {
     std::cout << "Hello World!\n";
+    std::cout << "abcdef\n";
 }
 
 
