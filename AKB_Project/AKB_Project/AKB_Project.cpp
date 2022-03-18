@@ -14,11 +14,17 @@ void TestCommit()
 int main()
 {
 
+
     std::cout << "다들 안녕?! AKB팀원들아~\n";
 
+    int A;
+    A = 10;
+
+
     std::cout << "Hello World!\n";
-    std::cout << "abcdef\n";
 }
+
+
 
 
 
