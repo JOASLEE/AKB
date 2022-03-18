@@ -9,7 +9,7 @@ int main()
 }
 
 
-int main()
+int kje()
 {
     std::cout << "1111Hello World!\n";
 }
