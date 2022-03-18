@@ -2,14 +2,11 @@
 //
 
 #include <iostream>
+#include <string>
 
 int main()
 {
-    int A;
-    A = 10;
-
-    std::cout << "Hello World!\n";
-    std::cout << A << std::endl;
+    std::cout << "다들 안녕?! AKB팀원들아~\n";
 }
 
 
