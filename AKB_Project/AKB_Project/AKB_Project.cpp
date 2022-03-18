@@ -2,6 +2,7 @@
 //
 
 #include <iostream>
+#include <string>
 
 void TestCommit()
 {
@@ -12,11 +13,25 @@ void TestCommit()
 
 int main()
 {
+
+
+    std::cout << "다들 안녕?! AKB팀원들아~\n";
+
     int A;
     A = 10;
 
+
     std::cout << "Hello World!\n";
 }
+
+
+
+
+
+
+
+
+
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
 // 프로그램 디버그: <F5> 키 또는 [디버그] > [디버깅 시작] 메뉴
 
