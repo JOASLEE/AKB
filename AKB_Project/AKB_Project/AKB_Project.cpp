@@ -6,7 +6,7 @@
 
 void TestCommit()
 {
-    std::cout << "asdf우리팀 화이팅\n" << std::endl;
+    std::cout << "aaaasdf우리팀 화이팅\n" << std::endl;
 }
 
 int main()
