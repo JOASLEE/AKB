@@ -13,7 +13,7 @@ int main()
 {
 
 
-    std::cout << "다들 안녕?! AKB팀원들아~\n";
+    std::cout << "qwer다들 안녕?! AKB팀원들아~\n";
 
     int A;
     A = 10;
