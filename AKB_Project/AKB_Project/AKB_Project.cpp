@@ -9,7 +9,7 @@ void TestCommit()
     std::cout << "우리팀 화이팅\n" << std::endl;
 }
 
-
+  // push test by jieun
 
 int main()
 {
